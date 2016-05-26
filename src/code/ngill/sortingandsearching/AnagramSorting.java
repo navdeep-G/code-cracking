@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Map;
 
 
-public class AnagramBucketSort {
+public class AnagramSorting {
 
 	public static void main(String[] args) {
 		String words[] = new String[] { "acca", "aba", "abab", "baa", "baab", "caac" };
