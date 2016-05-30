@@ -42,8 +42,7 @@ public class DupeChars {
 
 	
 	public static void main(String[] args) {
-		char[] str = "aaaaa".toCharArray();
-//		removeDuplicateChars(str);
+		char[] str = "aaaa".toCharArray();
 		removeDuplicateCharacters(str);
 	}
 	
